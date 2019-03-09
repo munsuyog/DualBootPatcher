@@ -149,7 +149,7 @@
     theme: portrait_hdpi
 
 ---
-- name: Micromax Micromax
+- name: Micromax Q414
   id: Q414
   codenames:
       - CUN-L21
@@ -159,7 +159,7 @@
       - n560a
       - lollipop
       - Micromax Q414
-  architecture: 
+  architecture: armeabi-v7a
   block_devs:
     base_dirs:
       - /dev/block/platform/mtk-msdc.0/by-name
